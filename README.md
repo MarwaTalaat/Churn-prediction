@@ -1,5 +1,6 @@
 # Churn-prediction
-Churn prediction using SPSS modeler
+Churn prediction using SPSS modeler.
+This is one of IBM Data Science Bootcamp. More information about the solution is available in powerpoint presenation.
 
 # Overview 
 A telecommunications firm serving regional markets. It has struggled with revenue contraction as customers move to other competitors. Its leadership has prioritized reducing customer churn in the next period.
